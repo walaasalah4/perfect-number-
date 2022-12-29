@@ -1,0 +1,4 @@
+c:\users\sam\documents\visual studio 2010\Projects\PRO 2 perfect number\PRO 2 perfect number\bin\Debug\PRO 2 perfect number.exe
+c:\users\sam\documents\visual studio 2010\Projects\PRO 2 perfect number\PRO 2 perfect number\bin\Debug\PRO 2 perfect number.pdb
+c:\users\sam\documents\visual studio 2010\Projects\PRO 2 perfect number\PRO 2 perfect number\obj\x86\Debug\PRO 2 perfect number.exe
+c:\users\sam\documents\visual studio 2010\Projects\PRO 2 perfect number\PRO 2 perfect number\obj\x86\Debug\PRO 2 perfect number.pdb
